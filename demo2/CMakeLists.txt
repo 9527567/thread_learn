@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+set(CMAKE_CXX_STANDARD 23)
+project(demo1_4)
+add_executable(demo2_1_1 demo2_1_1.cpp)
+add_executable(demo2_1_3 demo2_1_3.cpp)
